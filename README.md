@@ -24,4 +24,7 @@ npm run unit
 npm test
 ```
 
+# 访问
+   [vue练习](https://liuxingsumeng.github.io/-vue-noval/dist/#/)
+
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
